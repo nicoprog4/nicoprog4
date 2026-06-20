@@ -58,14 +58,20 @@ I have participated in the development of mobile applications and academic softw
 
 ---
 
-
 ## 📫 Contact Me
 
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nicolas-esteban-nu%C3%B1ez-santa-b50138293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nicolás_Nuñez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:nicolasnunez386@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/nicoprog4" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
