@@ -58,8 +58,6 @@ I have participated in the development of mobile applications and academic softw
 
 ---
 
-## 📫 Contact Me
-
 ## 📫 Connect With Me
 
 <p align="center">
